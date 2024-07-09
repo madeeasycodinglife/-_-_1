@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="jwt-encoder-decoder">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="jwt-encoder-decoder" id="015a2ce0-2086-44b8-bd16-43998d493096" name="Workbench">
+        <properties>
+          <property key="headerText" type="INPUT" value="kotlin.String|{&#13;&#10;  &quot;alg&quot;:&quot;HS384&quot;&#13;&#10;}" />
+          <property key="payloadText" type="INPUT" value="kotlin.String|{&#13;&#10;  &quot;jti&quot;:&quot;b3c17e53-07a1-4653-b328-355fb7466e5a&quot;,&#13;&#10;  &quot;sub&quot;:&quot;pabitra@gmail.com&quot;,&#13;&#10;  &quot;roles&quot;:[&#13;&#10;    &quot;USER&quot;,&#13;&#10;    &quot;ADMIN&quot;&#13;&#10;  ],&#13;&#10;  &quot;iss&quot;:&quot;madeeasycodinglife&quot;,&#13;&#10;  &quot;iat&quot;:1712898764,&#13;&#10;  &quot;exp&quot;:1712985164&#13;&#10;}" />
+          <property key="encodedText" type="INPUT" value="kotlin.String|eyJhbGciOiJIUzM4NCJ9.eyJqdGkiOiJiM2MxN2U1My0wN2ExLTQ2NTMtYjMyOC0zNTVmYjc0NjZlNWEiLCJzdWIiOiJwYWJpdHJhQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdLCJpc3MiOiJtYWRlZWFzeWNvZGluZ2xpZmUiLCJpYXQiOjE3MTI4OTg3NjQsImV4cCI6MTcxMjk4NTE2NH0.HHB794P3QIqLeWYAvdbcTgXEVSWmegGiimzzMHV4Gdo9UimcC2XcOhG7BD3xbGAy" />
+          <property key="algorithm" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.converter.JwtEncoderDecoder$SignatureAlgorithm|HMAC384" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>
